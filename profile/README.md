@@ -1,4 +1,4 @@
-# 💉 Sistema de Agendamento de Vacinas
+# 💉 Sistema de Agendamento do Iaitea
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
